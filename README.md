@@ -6,4 +6,5 @@ Screens:
 ![Screenshot](screen.png?raw=true "Audacious")
 ![Screenshot](screen_1.png?raw=true "Clear")
 ![Screenshot](screen_2.png?raw=true "Tmux")
+![Screenshot](screen_3.png?raw=true "Web")
 
