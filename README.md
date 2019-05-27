@@ -8,3 +8,4 @@ Screens:
 ![Screenshot](screen_2.png?raw=true "Tmux")
 ![Screenshot](screen_3.png?raw=true "Web")
 
+![Please do not theme this app](https://stopthemingmy.app/badge.svg)
